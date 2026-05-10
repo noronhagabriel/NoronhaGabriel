@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About M
 
 🎯 Full Stack Developer focused on delivering high-quality solutions  
 💡 Passionate about clean code and efficient systems  
